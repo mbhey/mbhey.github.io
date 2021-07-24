@@ -1,0 +1,46 @@
+/********************************* TAG Selectors ******************************/
+body {
+  background-color: #DBE6FD;
+  font-size: 20px;
+}
+
+img {
+  background-color: gold;
+  border-radius: 100%;
+  height: 100pt;
+}
+
+img:hover{
+  border-radius: 10%;
+}
+
+hr{
+  border-color: #5D8233;
+  border-spacing: 20px;
+  border-style: dotted none none;
+  border-width: 15px;
+  width: 10%;
+}
+
+h1
+{
+  color: #3E215D;
+}
+
+h2 {
+  color: #2541B2;
+}
+h3
+{
+  color: #284E78;
+}
+
+/********************************** class Selectors ***************************/
+.classRef {
+  color : red;
+}
+/********************************** ID Selectors ******************************/
+
+#idref {
+  color: blue;
+}
